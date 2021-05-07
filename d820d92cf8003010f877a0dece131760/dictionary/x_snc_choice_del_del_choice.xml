@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="del_choice" max_length="40" name="x_snc_choice_del_del_choice" type="collection">
+        <element choice="1" label="Friends" max_length="40" name="friends" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="monday" value="monday"/>
+                <element inactive_on_update="false" label="tuesday" value="tuesday"/>
+                <element inactive_on_update="false" label="wednesday" value="wednesday"/>
+            </choice>
+        </element>
+    </element>
+</database>
