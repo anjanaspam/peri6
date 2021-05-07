@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-07 18:39:47</sys_created_on>
+        <sys_id>dc50d56cf8003010f877a0dece1317e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_choice_del_del_choice.x_snc_choice_del.del_choice_user</sys_name>
+        <sys_package display_value="choice_del" source="x_snc_choice_del">d820d92cf8003010f877a0dece131760</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="choice_del">d820d92cf8003010f877a0dece131760</sys_scope>
+        <sys_security_acl display_value="x_snc_choice_del_del_choice">1050d56cf8003010f877a0dece1317dd</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dc50d56cf8003010f877a0dece1317e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-07 18:39:47</sys_updated_on>
+        <sys_user_role display_value="x_snc_choice_del.del_choice_user" name="x_snc_choice_del.del_choice_user">a340116cf8003010f877a0dece1317ba</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="choice_del">d820d92cf8003010f877a0dece131760</application>
+        <file_path/>
+        <instance_id>2cb33c6cc9132010958bec1b50e93e37</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_security_acl_role_dc50d56cf8003010f877a0dece1317e0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-07 18:39:47</sys_created_on><sys_id>dc50d56cf8003010f877a0dece1317e0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_choice_del_del_choice.x_snc_choice_del.del_choice_user</sys_name><sys_package display_value="choice_del" source="x_snc_choice_del">d820d92cf8003010f877a0dece131760</sys_package><sys_policy/><sys_scope display_value="choice_del">d820d92cf8003010f877a0dece131760</sys_scope><sys_security_acl display_value="x_snc_choice_del_del_choice">1050d56cf8003010f877a0dece1317dd</sys_security_acl><sys_update_name>sys_security_acl_role_dc50d56cf8003010f877a0dece1317e0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-07 18:39:47</sys_updated_on><sys_user_role display_value="x_snc_choice_del.del_choice_user" name="x_snc_choice_del.del_choice_user">a340116cf8003010f877a0dece1317ba</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1414633495</payload_hash>
+        <record_name>x_snc_choice_del_del_choice.x_snc_choice_del.del_choice_user</record_name>
+        <reverted_from/>
+        <source>9020d92cf8003010f877a0dece131763</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-07 18:39:47</sys_created_on>
+        <sys_id>1050d56cf8003010f877a0dece1317e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1794820ece40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-07 18:39:47</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>5850d56c0400301012b45f3f92b28fe3</update_guid>
+        <update_guid_history>5850d56c0400301012b45f3f92b28fe3:-1414633495</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_choice_del_del_choice.x_snc_choice_del.del_choice_user">68315120f8403010f877a0dece131717</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-07 18:43:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>063533b894f447f0808b7d90653e9144</sys_id>
+        <sys_metadata>dc50d56cf8003010f877a0dece1317e0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_choice_del_del_choice.x_snc_choice_del.del_choice_user</sys_name>
+        <sys_package display_value="choice_del" source="x_snc_choice_del">d820d92cf8003010f877a0dece131760</sys_package>
+        <sys_parent display_value="">1050d56cf8003010f877a0dece1317dd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="choice_del">d820d92cf8003010f877a0dece131760</sys_scope>
+        <sys_scope_delete display_value="">1df93c6c0f504b25879634da3f7888b9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_dc50d56cf8003010f877a0dece1317e0</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_dc50d56cf8003010f877a0dece1317e0">1050d56cf8003010f877a0dece1317e4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-07 18:43:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
